@@ -20,7 +20,7 @@ Your're in the good place if you have an application (in any language) that have
 #### 1. Clone this repository
 ```
 $ git clone https://github.com/ForestAdmin/forest-examples.git
-$ cd forest-examples/expressjs/mongodb-database/simple/
+$ cd forest-examples/examples/mongodb-database/simple/
 ```
 
 #### 2. Create the mongodb database
