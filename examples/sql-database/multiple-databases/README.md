@@ -86,6 +86,13 @@ In the `forest-express-sequelize` middleware configuration, we pass all your dat
 
 Each database must have its own directory in the `models/` folder. Then all your database models have to be put in the right one.
 
+### Directory: `forest/` and `routes/`
+
+There is an example of a [Smart
+Action](https://doc.forestadmin.com/developer-guide/lumber.html#what-is-a-smart-action)
+defined on the collection `movies` to show you how to interact with your
+different models and databases.
+
 ## Need help?
 
 Simply post an issue in this repository.
