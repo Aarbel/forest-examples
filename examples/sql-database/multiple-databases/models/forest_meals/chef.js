@@ -6,13 +6,14 @@ module.exports = (sequelize, DataTypes) => {
     lastname: { type: DataTypes.STRING },
     email: { type: DataTypes.STRING }
   }, {
-    classMethods: {
-      associate: () => {
-      }
-    },
     tableName: 'chefs',
     underscored: true
   });
 
+  Model.associate = (models) => {
+    Model.hasMany(models.chef_availability);
+  };
+
   return Model;
 };
+
