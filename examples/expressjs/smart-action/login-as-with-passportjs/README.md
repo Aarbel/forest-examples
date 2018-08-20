@@ -21,7 +21,7 @@ customer in your application.
 #### 1. Clone this repository
 ```
 $ git clone https://github.com/ForestAdmin/forest-examples.git
-$ cd forest-examples/expressjs/smart-action/login-as-with-passportjs
+$ cd forest-examples/examples/expressjs/smart-action/login-as-with-passportjs
 ```
 
 #### 2. Create the postgres databases
@@ -88,4 +88,3 @@ This file contains the implementation of the route that handled the `POST /fores
 ## Need help?
 
 Simply post an issue in this repository.
-

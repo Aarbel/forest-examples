@@ -20,7 +20,7 @@ Your're in the good place if you have an application (in any language) that have
 #### 1. Clone this repository
 ```
 $ git clone https://github.com/ForestAdmin/forest-examples.git
-$ cd forest-examples/expressjs/sql-database/multiple-databases/
+$ cd forest-examples/examples/sql-database/multiple-databases/
 ```
 
 #### 2. Create the postgres databases

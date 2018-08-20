@@ -21,7 +21,7 @@ This example shows you how to install Forest Admin on a
 #### 1. Clone this repository
 ```
 $ git clone https://github.com/ForestAdmin/forest-examples.git
-$ cd forest-examples/feathers
+$ cd forest-examples/examples/feathers/sql-database
 ```
 
 #### 2. Create the postgres databases
@@ -98,4 +98,3 @@ Admin API automatically based on your models definition.
 ## Need help?
 
 Simply post an issue in this repository.
-
