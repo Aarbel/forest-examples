@@ -6,6 +6,7 @@ A list of examples of Forest Admin implementations, to show customization featur
 - [Expressjs / Any Database / Smart Action / "Login as..." with PassportJS](/examples/expressjs/smart-action/login-as-with-passportjs)
 - [Expressjs / Any Database / Smart Action / Integration with Zapier](/examples/expressjs/smart-action/integration-with-zapier)
 - [Feathers / SQL Database / Simple](/examples/feathers/sql-database)
+- [Loopback / SQL Database / Simple](/examples/loopback/sql-database)
 
 ## Need more examples?
 
